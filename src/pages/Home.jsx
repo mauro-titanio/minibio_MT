@@ -47,7 +47,7 @@ export default function Home() {
             </Text>
             <Text size={"$sm"}>Front-end developer</Text>
             <Text size={"$xs"}>
-              Analyst @ NTT Data Spain.
+              Lead Analyst @ NTT Data.
             </Text>
           </Grid>
           <Grid xs={12} justify='center'>
